@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald:wght@700&display=swap");
+.navbar-brand {
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  background-image: url(/multimedia/chaleco.jpg);
+  background-size: cover;
+  color: #F5F0BB;
+  margin: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+  height: 300px;
+}
+
+.nosotros {
+  height: 550px;
+  background-color: #F5F0BB;
+}
+
+h2 {
+  background-color: #F5F0BB;
+  text-align: center;
+  color: #333;
+  padding: 50px;
+  margin: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 800;
+}
+
+.ad {
+  background-image: url(/multimedia/tejido.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+}
+
+.ai {
+  padding: 30px;
+  text-align: center;
+  background-color: #F5F0BB;
+  color: #333;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 25px;
+}
+
+.inicia {
+  background-color: #F5F0BB;
+  text-align: center;
+  margin: 0;
+}
+
+.id {
+  background-image: url(/multimedia/cardigan.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 100vh;
+}
+
+.ie {
+  background-image: url(/multimedia/woman-2563491_1920.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+.ii {
+  background-color: #F5F0BB;
+  text-align: center;
+  font-size: 25px;
+  font-family: "Montserrat Alternates", sans-serif;
+  width: 50%;
+  padding: 50px;
+  position: relative;
+}
+
+.btn-primary {
+  background-color: #F5F0BB;
+  color: #333;
+  border-color: #333;
+}
+
+.btn-primary:hover {
+  background-color: gray;
+  border-color: #333;
+}
+
+.row {
+  margin: 0;
+}
+
+.row2 {
+  min-height: calc(100vh - 100px - 270px);
+}
+
+.card-body {
+  background-color: #F5F0BB;
+  margin: 0;
+}
+
+footer {
+  height: auto;
+  background-color: #F5F0BB;
+  text-align: center;
+  font-family: "Montserrat Alternates", sans-serif;
+  border-top-style: solid;
+  padding: 50px 0px 50px 0px;
+  position: static;
+}
+
+.cs {
+  height: 800px;
+  background-color: #F5F0BB;
+  font-family: "Montserrat Alternates", sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.carousel-inner {
+  height: 600px;
+  max-width: 100%;
+}/*# sourceMappingURL=estilos.css.map */
